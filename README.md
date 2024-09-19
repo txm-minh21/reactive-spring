@@ -36,7 +36,9 @@ What are the steps required to install your project
 
 1. Clone the repository:
 
-```git clone git remote add origin https://github.com/txm-minh21/reactive-spring.git```
+```
+git clone https://github.com/txm-minh21/reactive-spring.git
+```
 
 2. Navigate to the project directory:
    
@@ -50,7 +52,4 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-Project Link: http
  

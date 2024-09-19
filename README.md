@@ -11,9 +11,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Table of Contents (Optional)
  
-- [Installation](#installation)
+- [Getting Started](#start)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributing](#credits)
 - [License](#license)
 
 ## Getting Started

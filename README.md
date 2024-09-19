@@ -8,8 +8,14 @@
 
 **Reactor Project**: Reactor is a reactive library from the Spring team. It is the backbone of the reactive programming model in Spring and provides two main types:
 
-Mono<T>: Represents a stream with 0 or 1 element.
-Flux<T>: Represents a stream with 0 to N elements.
+**Mono<T>**: Represents a stream with 0 or 1 element.
+
+The Mono API allows producing only one value.
+
+
+**Flux<T>**: Represents a stream with 0 to N elements.
+
+The Flux can be endless, it can produce multiple values.
 
 ## Table of Contents (Optional)
  

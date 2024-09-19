@@ -12,6 +12,8 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Table of Contents (Optional)
  
 - [Getting Started](#getting-started)
+   - [Technology](#technology)
+   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -19,10 +21,16 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Getting Started
 Follow the instructions below to set up the project on your local machine for development and testing purposes.
 ### Technology
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+What your technology
 
 ### Installation
 What are the steps required to install your project
+1. Clone the repository:
+
+```git clone git remote add origin git@github.com🔗link```
+
+2. Navigate to the project directory:
+3. Build and package each component with Maven:
 
 ## Usage
 
@@ -35,10 +43,10 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Contributing
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## License
-This project is licensed under the 
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 Project Link: http
